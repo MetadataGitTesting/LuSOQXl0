@@ -6,7 +6,7 @@ language: scala
 buildSystem: ''
 buildSystemDetails:
   artefactID: elinorblock
-  parentArtefactID: ''
+  parentArtefactID: xtvunykpcszsey8ipyxfo73zcomteam
   buildSystem: maven
   author: null
   createdAt: '2025-12-05 22:49:28'
@@ -15,8 +15,8 @@ datasets: {}
 templates: {}
 jobs: {}
 gemContainer:
-  languageVersion: ''
-  gemLibsVersion: ''
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
   gems: {}
   dependencies: null
 functions:
@@ -48,10 +48,10 @@ projectDependencies:
     projectUID: 454
     projectName: shoshana.lebsack
     repositoryPath: gitUri=http://gitserver:3000/dev_xvelHkmm_team_748/dev_xvelHkmm_project_454.git&subPath=
-    version: shoshana.lebsack/4.5.4.671
+    version: shoshana.lebsack/0.2.0.619
     isDefault: false
     author: null
-    createdAt: '2025-12-05 22:49:26'
+    createdAt: '2025-12-05 22:49:54'
 flags:
   shouldAddDefaultDependenciesIfAbsent: true
 pipelineConfigurations: {}
